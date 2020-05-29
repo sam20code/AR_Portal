@@ -1,0 +1,2 @@
+# AR_Portal
+This is one of my biggest and real life project which includes  Augmented reality . Since AR has numerous real life applications .I have Created a virtual house where once u scan the ground and tap on screen u will get a door in which you can enter walk see things as if all is real ,This aspect of AR has leading advantage in tourism which enables u to visit and experience the places u have never been too.You can safely click this link to experience AR Portal  https://drive.google.com/open?id=1NyC135rk_Rkms2fKl8LvOuD0LV4k5w1W
